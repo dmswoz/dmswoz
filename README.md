@@ -1,7 +1,7 @@
-## welcome :)
-A Student.
+## welcome !
+안녕하세요. 두곰이에오.
 
 ### resume
-- CAMORAD(2020-2023) : CosaBot Project
-- KoreanStorys(2022) : 고먐미, a cute bot
-- Individual(2017-2023) : Different types of discord bot ...
+- CAMORAD(2020-2023) : 코사봇 프로젝트
+- 한국대전(2022) : 고먐미
+- 개인(2017-2023) : 여러가지 챗봇 ...
